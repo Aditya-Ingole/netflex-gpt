@@ -3,10 +3,13 @@
 
 - Creating React App
 - Configured Tailwind
+- Header
+- Login Form
+- sign up form
 
 
 # Features
-
+    
 - Login/Sign Up
     -Sign In / Sign up form
     -redirect to Browser page
